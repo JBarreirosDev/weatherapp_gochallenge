@@ -1,0 +1,600 @@
+
+Request: GET /suggestions/Porto at Mon Jan 03 2022 20:20:34 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "45561",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Porto Alegre",
+		"Country": {
+			"ID": "BR",
+			"LocalizedName": "Brazil"
+		},
+		"AdministrativeArea": {
+			"ID": "RS",
+			"LocalizedName": "Rio Grande Do Sul"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "35941",
+		"Type": "City",
+		"Rank": 31,
+		"LocalizedName": "Porto Velho",
+		"Country": {
+			"ID": "BR",
+			"LocalizedName": "Brazil"
+		},
+		"AdministrativeArea": {
+			"ID": "RO",
+			"LocalizedName": "Rondônia"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "275317",
+		"Type": "City",
+		"Rank": 31,
+		"LocalizedName": "Porto",
+		"Country": {
+			"ID": "PT",
+			"LocalizedName": "Portugal"
+		},
+		"AdministrativeArea": {
+			"ID": "13",
+			"LocalizedName": "Porto"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "30458",
+		"Type": "City",
+		"Rank": 40,
+		"LocalizedName": "Porto-Novo",
+		"Country": {
+			"ID": "BJ",
+			"LocalizedName": "Benin"
+		},
+		"AdministrativeArea": {
+			"ID": "OU",
+			"LocalizedName": "Ouémé"
+		}
+	},
+	{
+		"Versi
+...
+Response: 304 294.156 ms 
+
+Request: GET /suggestions/Porto at Mon Jan 03 2022 20:20:46 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "45561",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Porto Alegre",
+		"Country": {
+			"ID": "BR",
+			"LocalizedName": "Brazil"
+		},
+		"AdministrativeArea": {
+			"ID": "RS",
+			"LocalizedName": "Rio Grande Do Sul"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "35941",
+		"Type": "City",
+		"Rank": 31,
+		"LocalizedName": "Porto Velho",
+		"Country": {
+			"ID": "BR",
+			"LocalizedName": "Brazil"
+		},
+		"AdministrativeArea": {
+			"ID": "RO",
+			"LocalizedName": "Rondônia"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "275317",
+		"Type": "City",
+		"Rank": 31,
+		"LocalizedName": "Porto",
+		"Country": {
+			"ID": "PT",
+			"LocalizedName": "Portugal"
+		},
+		"AdministrativeArea": {
+			"ID": "13",
+			"LocalizedName": "Porto"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "30458",
+		"Type": "City",
+		"Rank": 40,
+		"LocalizedName": "Porto-Novo",
+		"Country": {
+			"ID": "BJ",
+			"LocalizedName": "Benin"
+		},
+		"AdministrativeArea": {
+			"ID": "OU",
+			"LocalizedName": "Ouémé"
+		}
+	},
+	{
+		"Versi
+...
+Response: 304 228.549 ms 
+
+Request: GET /suggestions/k at Mon Jan 03 2022 20:22:15 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "113487",
+		"Type": "City",
+		"Rank": 10,
+		"LocalizedName": "Kinshasa",
+		"Country": {
+			"ID": "CD",
+			"LocalizedName": "Democratic Republic of the Congo"
+		},
+		"AdministrativeArea": {
+			"ID": "KN",
+			"LocalizedName": "Kinshasa"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "106812",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Kunming",
+		"Country": {
+			"ID": "CN",
+			"LocalizedName": "China"
+		},
+		"AdministrativeArea": {
+			"ID": "YN",
+			"LocalizedName": "Yunnan"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "206690",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Kolkata",
+		"Country": {
+			"ID": "IN",
+			"LocalizedName": "India"
+		},
+		"AdministrativeArea": {
+			"ID": "WB",
+			"LocalizedName": "West Bengal"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "261158",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Karachi",
+		"Country": {
+			"ID": "PK",
+			"LocalizedName": "Pakistan"
+		},
+		"AdministrativeArea": {
+			"ID": "SD",
+			"LocalizedName": "Sindh"
+		}
+	
+...
+Response: 304 281.127 ms 
+
+Request: GET /cities/206690 at Mon Jan 03 2022 20:22:17 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+{
+	"Temperature": 16,
+	"Dawn": 1641170820,
+	"Dusk": 1641209700
+}
+Response: 200 693.241 ms 
+
+Request: GET /suggestions/m at Mon Jan 03 2022 20:22:18 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "308526",
+		"Type": "City",
+		"Rank": 10,
+		"LocalizedName": "Madrid",
+		"Country": {
+			"ID": "ES",
+			"LocalizedName": "Spain"
+		},
+		"AdministrativeArea": {
+			"ID": "MD",
+			"LocalizedName": "Madrid"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "242560",
+		"Type": "City",
+		"Rank": 10,
+		"LocalizedName": "Mexico City",
+		"Country": {
+			"ID": "MX",
+			"LocalizedName": "Mexico"
+		},
+		"AdministrativeArea": {
+			"ID": "CMX",
+			"LocalizedName": "México City"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "294021",
+		"Type": "City",
+		"Rank": 10,
+		"LocalizedName": "Moscow",
+		"Country": {
+			"ID": "RU",
+			"LocalizedName": "Russia"
+		},
+		"AdministrativeArea": {
+			"ID": "MOW",
+			"LocalizedName": "Moscow"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "26216",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Melbourne",
+		"Country": {
+			"ID": "AU",
+			"LocalizedName": "Australia"
+		},
+		"AdministrativeArea": {
+			"ID": "VIC",
+			"LocalizedName": "Victoria"
+		}
+	},
+	{
+		"Version":
+...
+Response: 304 236.518 ms 
+
+Request: GET /cities/242560 at Mon Jan 03 2022 20:22:20 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+{
+	"Temperature": 18.9,
+	"Dawn": 1641215460,
+	"Dusk": 1641255060
+}
+Response: 200 539.310 ms 
+
+Request: GET /suggestions/h at Mon Jan 03 2022 20:22:22 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "1123655",
+		"Type": "City",
+		"Rank": 10,
+		"LocalizedName": "Hong Kong",
+		"Country": {
+			"ID": "HK",
+			"LocalizedName": "Hong Kong"
+		},
+		"AdministrativeArea": {
+			"ID": "ST",
+			"LocalizedName": "Sha Tin"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "353412",
+		"Type": "City",
+		"Rank": 10,
+		"LocalizedName": "Hanoi",
+		"Country": {
+			"ID": "VN",
+			"LocalizedName": "Vietnam"
+		},
+		"AdministrativeArea": {
+			"ID": "HN",
+			"LocalizedName": "Hanoi"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "101841",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Hefei",
+		"Country": {
+			"ID": "CN",
+			"LocalizedName": "China"
+		},
+		"AdministrativeArea": {
+			"ID": "AH",
+			"LocalizedName": "Anhui"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "102669",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Harbin",
+		"Country": {
+			"ID": "CN",
+			"LocalizedName": "China"
+		},
+		"AdministrativeArea": {
+			"ID": "HL",
+			"LocalizedName": "Heilongjiang"
+		}
+	},
+	{
+		"Version": 1,
+		"Key
+...
+Response: 304 224.854 ms 
+
+Request: GET /cities/102669 at Mon Jan 03 2022 20:22:24 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+{
+	"Temperature": -19.6,
+	"Dawn": 1641251700,
+	"Dusk": 1641283320
+}
+Response: 200 1125.341 ms 
+
+Request: GET /suggestions/i at Mon Jan 03 2022 20:22:26 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "318251",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Istanbul",
+		"Country": {
+			"ID": "TR",
+			"LocalizedName": "Turkey"
+		},
+		"AdministrativeArea": {
+			"ID": "34",
+			"LocalizedName": "Istanbul"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "208194",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Isfahan",
+		"Country": {
+			"ID": "IR",
+			"LocalizedName": "Iran"
+		},
+		"AdministrativeArea": {
+			"ID": "04",
+			"LocalizedName": "Esfahan"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "224032",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Incheon",
+		"Country": {
+			"ID": "KR",
+			"LocalizedName": "South Korea"
+		},
+		"AdministrativeArea": {
+			"ID": "28",
+			"LocalizedName": "Incheon"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "255043",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Ibadan",
+		"Country": {
+			"ID": "NG",
+			"LocalizedName": "Nigeria"
+		},
+		"AdministrativeArea": {
+			"ID": "OY",
+			"LocalizedName": "Oyo"
+		}
+	},
+	{
+		"Version": 1,
+		"Key
+...
+Response: 304 239.400 ms 
+
+Request: GET /cities/208194 at Mon Jan 03 2022 20:22:27 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+{
+	"Temperature": 1.6,
+	"Dawn": 1641180960,
+	"Dusk": 1641217200
+}
+Response: 304 674.536 ms 
+
+Request: GET /suggestions/i at Mon Jan 03 2022 20:22:30 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "318251",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Istanbul",
+		"Country": {
+			"ID": "TR",
+			"LocalizedName": "Turkey"
+		},
+		"AdministrativeArea": {
+			"ID": "34",
+			"LocalizedName": "Istanbul"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "208194",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Isfahan",
+		"Country": {
+			"ID": "IR",
+			"LocalizedName": "Iran"
+		},
+		"AdministrativeArea": {
+			"ID": "04",
+			"LocalizedName": "Esfahan"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "224032",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Incheon",
+		"Country": {
+			"ID": "KR",
+			"LocalizedName": "South Korea"
+		},
+		"AdministrativeArea": {
+			"ID": "28",
+			"LocalizedName": "Incheon"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "255043",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Ibadan",
+		"Country": {
+			"ID": "NG",
+			"LocalizedName": "Nigeria"
+		},
+		"AdministrativeArea": {
+			"ID": "OY",
+			"LocalizedName": "Oyo"
+		}
+	},
+	{
+		"Version": 1,
+		"Key
+...
+Response: 304 231.122 ms 
+
+Request: GET /cities/224032 at Mon Jan 03 2022 20:22:31 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+{
+	"Temperature": -2.2,
+	"Dawn": 1641250080,
+	"Dusk": 1641284880
+}
+Response: 200 569.689 ms 
+
+Request: GET /suggestions/i at Mon Jan 03 2022 20:22:33 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+[
+	{
+		"Version": 1,
+		"Key": "318251",
+		"Type": "City",
+		"Rank": 11,
+		"LocalizedName": "Istanbul",
+		"Country": {
+			"ID": "TR",
+			"LocalizedName": "Turkey"
+		},
+		"AdministrativeArea": {
+			"ID": "34",
+			"LocalizedName": "Istanbul"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "208194",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Isfahan",
+		"Country": {
+			"ID": "IR",
+			"LocalizedName": "Iran"
+		},
+		"AdministrativeArea": {
+			"ID": "04",
+			"LocalizedName": "Esfahan"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "224032",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Incheon",
+		"Country": {
+			"ID": "KR",
+			"LocalizedName": "South Korea"
+		},
+		"AdministrativeArea": {
+			"ID": "28",
+			"LocalizedName": "Incheon"
+		}
+	},
+	{
+		"Version": 1,
+		"Key": "255043",
+		"Type": "City",
+		"Rank": 21,
+		"LocalizedName": "Ibadan",
+		"Country": {
+			"ID": "NG",
+			"LocalizedName": "Nigeria"
+		},
+		"AdministrativeArea": {
+			"ID": "OY",
+			"LocalizedName": "Oyo"
+		}
+	},
+	{
+		"Version": 1,
+		"Key
+...
+Response: 304 252.316 ms 
+
+Request: GET /cities/318251 at Mon Jan 03 2022 20:22:35 GMT+0000, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+Response Body:
+{
+	"Temperature": 10.8,
+	"Dawn": 1641187740,
+	"Dusk": 1641221280
+}
+Response: 200 785.175 ms 
