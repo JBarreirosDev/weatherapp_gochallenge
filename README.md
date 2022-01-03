@@ -12,6 +12,12 @@ While keeping the instance of the terminal open, open another instance of the te
 
 'npm start'
 
+If you encounter an Html Webpack Plugin Error, please run the command:
+
+'npx npm-check --update-all'
+
+## Run
+
 Now to see the application open your broswer (in my case chrome) and go to the following URL:
 http://localhost:5000/
 
